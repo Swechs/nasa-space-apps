@@ -1,0 +1,6 @@
+
+cat > vercel.json <<'EOF'
+{
+  "buildCommand": "",
+  "outputDirectory": "public"
+}
